@@ -105,11 +105,5 @@ Focus Plan:
   </tr>
 </table>
 
----
-
-### 🔥 Stats & Activity  
-<img src="https://github-readme-stats.vercel.app/api?username=DamianBogusStudios&show_icons=true&theme=tokyonight&hide_border=true" align="left" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBogusStudios&layout=compact&theme=tokyonight&hide_border=true" align="left" width="30%" />
-
 # > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and #it will show up on this page.
 # {: .prompt-tip }
