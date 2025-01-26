@@ -3,7 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## Hi👋, I'm Damian!
+ Hi👋, I'm Damian!
+
+
 <a href="https://github.com/DamianBogusStudios" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
